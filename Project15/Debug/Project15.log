@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\Luis\source\repos\Project15\Project15\Arreglo.h(122,1): error C2562:  'Arreglo<int>::_insertarA': función void' que devuelve un valor
+C:\Users\Luis\source\repos\Project15\Project15\Arreglo.h(121): message :  vea la declaración de 'Arreglo<int>::_insertarA'
+C:\Users\Luis\source\repos\Project15\Project15\Arreglo.h(121): message :  al compilar la función del miembro clase plantilla "void Arreglo<int>::_insertarA(T)"
+C:\Users\Luis\source\repos\Project15\Project15\Arreglo.h(121): message :         with
+C:\Users\Luis\source\repos\Project15\Project15\Arreglo.h(121): message :         [
+C:\Users\Luis\source\repos\Project15\Project15\Arreglo.h(121): message :             T=int
+C:\Users\Luis\source\repos\Project15\Project15\Arreglo.h(121): message :         ]
+C:\Users\Luis\source\repos\Project15\Project15\Archivos.h(172): message :  vea la referencia a la creación de instancias de plantilla de función "void Arreglo<int>::_insertarA(T)" que se está compilando
+C:\Users\Luis\source\repos\Project15\Project15\Archivos.h(172): message :         with
+C:\Users\Luis\source\repos\Project15\Project15\Archivos.h(172): message :         [
+C:\Users\Luis\source\repos\Project15\Project15\Archivos.h(172): message :             T=int
+C:\Users\Luis\source\repos\Project15\Project15\Archivos.h(172): message :         ]
+C:\Users\Luis\source\repos\Project15\Project15\Archivos.h(166): message :  vea la referencia a la creación de instancias de clase plantilla "Arreglo<int>" que se está compilando
